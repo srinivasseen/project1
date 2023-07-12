@@ -1,0 +1,34 @@
+1. What is CSS?
+Cascading Style Sheets fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independent of the HTML that makes up each web page.
+CSS is easy to learn and understood, but it provides powerful control over the presentation of an HTML document.
+
+2. Why do we use CSS?
+We use CSS because of the following reasons:
+
+CSS saves time: You can write CSS once and reuse the same sheet on multiple HTML pages.
+Easy Maintenance: To make a global change simply change the style, and all elements in all the webpages will be updated automatically.
+Search Engines: CSS is considered a clean coding technique, which means search engines won’t have to struggle to “read” its content.
+Superior styles to HTML: CSS has a much wider array of attributes than HTML, so you can give a far better look to your HTML page in comparison to HTML attributes.
+Offline Browsing: CSS can store web applications locally with the help of an offline cache. Using of this we can view offline websites.
+3. What are the advantages of CSS?
+CSS plays an important role, by using CSS you simply got to specify a repeated style for an element once & use it multiple times because CSS will automatically apply the required styles.
+The main advantage of CSS is that style is applied consistently across a variety of sites. One instruction can control several areas which are advantageous.
+Web designers need to use a few lines of programming for every page improving site speed.
+Cascading sheet not only simplifies website development but also simplifies maintenance as a change of one line of code affects the whole website and maintenance time.
+It is less complex therefore the effort is significantly reduced.
+It helps to form spontaneous and consistent changes.
+CSS changes are device friendly. With people employing a batch of various range of smart devices to access websites over the web, there’s a requirement for responsive web design.
+It has the power for re-positioning. It helps us to determine the changes within the position of web elements that are there on the page.
+These bandwidth savings are substantial figures of insignificant tags that are indistinct from a mess of pages.
+Easy for the user to customize the online page
+It reduces the file transfer size.
+4. What are the disadvantages of CSS?
+CSS, CSS 1 up to CSS3, result in creating confusion among web browsers.
+With CSS, what works with one browser might not always work with another. The web developers need to test for compatibility, running the program across multiple browsers.
+There exists a scarcity of security.
+After making the changes we need to confirm the compatibility if they appear. A similar change affects all the browsers.
+The programing language world is complicated for non-developers and beginners. Different levels of CSS i.e. CSS, CSS 2, CSS 3 are often quite confusing.
+Browser compatibility (some style sheets are supported and some are not).
+CSS works differently on different browsers. IE and Opera support CSS as different logic.
+There might be cross-browser issues while using CSS.
+There are multiple levels that create confusion for non-developers and beginners.
